@@ -1,2 +1,2 @@
-# Congratulations!
+# Welcome
 Have you heard about Samuel Morse? He was an American inventor and painter. After having established his reputation as a portrait painter, in his middle age Morse contributed to the invention of a single-wire telegraph system based on European telegraphs. He was a co-developer of Morse code and helped to develop the commercial use of telegraphy. Nowadays, his code is not widely used. It is still in use by naval and amateur radio operators. And of course, by us. To continue, visit http://room19-roomescape.github.io/XXXX where XXXX is the birth year of Samuel Morse.
